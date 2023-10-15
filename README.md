@@ -9,5 +9,5 @@ gained experience in Swift, Objective-C, UIKit, and C#. Outside of that internsh
   
 ## Journal App project
 For my term project in Systems Design and Analysis, we were tasked with 
-creating a term project. For my team's project, we decided to create a journal app for iOS. The main idea is that the user will upload pictures they took throughout the day, and write a journal entry about them. From there, they can save that journal and optionally post it to their public profile. If they post it publicly, other users can see the journal and can comment on it.
+creating a team project. For my team's project, we decided to create a journal app for iOS. The main idea is that the user will upload pictures they took throughout the day, and write a journal entry about them. From there, they can save that journal and optionally post it to their public profile. If they post it publicly, other users can see the journal and can comment on it.
 Here is a link to the [project's GitHub repository](https://zachveenstra.github.io/TheTuringTrio/).
